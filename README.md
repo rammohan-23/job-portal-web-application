@@ -1,4 +1,5 @@
-**findAJob** is a comprehensive job portal application developed using **Spring Boot 3**, **Spring MVC**, **Thymeleaf**, **Spring Security**, and **Hibernate/JPA**. It serves as a platform for recruiters to post job opportunities and job seekers to search and apply for jobs. The application is built with a user-friendly interface and follows industry best practices in software development.
+# job-portal-web-application - findAJob.com
+**findAJob.com** is a comprehensive job portal application developed using **Spring Boot 3**, **Spring MVC**, **Thymeleaf**, **Spring Security**, and **Hibernate/JPA**. It serves as a platform for recruiters to post job opportunities and job seekers to search and apply for jobs. The application is built with a user-friendly interface and follows industry best practices in software development.
 
 ---
 
