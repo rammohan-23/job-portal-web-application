@@ -73,7 +73,7 @@ findAJob/
 
 ### 📊 **Application Flow**
 
-![Application Flow Diagram](flow_diagram.png)
+![Application Flow Diagram](jobportal-database-schema.png)
 
 1. **User Registration and Login:**
     - Users register and choose their role (Recruiter or Job Seeker).
